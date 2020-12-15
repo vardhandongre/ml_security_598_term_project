@@ -1,6 +1,6 @@
 # ml_security_598_term_project
 
-- baselines folder contains the code to run the baseleines
+- baselines folder contains the code to run the baselines
 - Project folder contains the code to run our implemetations:
 	- Single_Frame.py contains the frame-based model
 	- Sequential.py contains the spatio-temporal model that uses 3d-ResNet
